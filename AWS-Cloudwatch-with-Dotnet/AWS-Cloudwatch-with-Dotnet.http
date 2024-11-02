@@ -1,0 +1,6 @@
+@AWS_Cloudwatch_with_Dotnet_HostAddress = http://localhost:5167
+
+GET {{AWS_Cloudwatch_with_Dotnet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
